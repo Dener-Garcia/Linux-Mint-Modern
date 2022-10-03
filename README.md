@@ -31,6 +31,7 @@ A ídeia aqui é deixar seu linux com um visual bonito e diferenciado, espero qu
 
 
 <div align="center">
-[![Video canal Linux Aberto de como configurar o linux mint](https://www.youtube.com/embed/qVBam9d29vk)
+  
+[![Video canal M3Dener de como configurar o linux mint](https://img.youtube.com/vi/YNB6CGi1nEA/0.jpg)](https://youtu.be/YNB6CGi1nEA)
 
 </div>
