@@ -7,7 +7,7 @@ Ao final seu tema deve ser parecido com o da imagem abaixo:
 <br>
 
 
-<img src="Home.png" width="100%"/>  
+<img src="hero2.png" width="100%"/>  
 
 
 ## Configuração do tema:
