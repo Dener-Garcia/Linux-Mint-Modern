@@ -25,15 +25,12 @@ Ao final seu tema deve ser parecido com o da imagem abaixo:
 
 5 - Dentro da pasta .themes na sua HOME copie a pasta zorin-blue-gtk.
 
-<img src="setup.png" width="100%"/>  
-
 A ídeia aqui é deixar seu linux com um visual bonito e diferenciado, espero que gostem das modificações no visual.
 
 ### Você pode ver como configurei esse setup no Youtube:
 
 
 <div align="center">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qVBam9d29vk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video canal Linux Aberto de como configurar o linux mint](https://www.youtube.com/embed/qVBam9d29vk)
 
 </div>
